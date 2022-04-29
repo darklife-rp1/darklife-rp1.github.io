@@ -110,7 +110,7 @@ h3 a,
 h4 a,
 h5 a,
 h6 a {
-     color: #212121;
+     color: #ff0000;
      text-decoration: none!important;
      opacity: 1
 }
@@ -665,7 +665,7 @@ ul.btn li:last-child {
 .laptop {
      font-family: 'Dosis', sans-serif;
      padding: 130px 0;
-     background-color: #4f4aa6;
+     background-color: #440000;
 }
 
 .laptop .titlepage {
@@ -791,6 +791,7 @@ ul.btn li:last-child {
 
 .contact .titlepage h2 {
      color: #fff;
+     font-size: 30px;
      border-bottom: #fff solid 1px;
 }
 
@@ -1005,7 +1006,7 @@ ul.social_icon li a:hover {
 
 .inner_posituong .header {
      position: inherit;
-     background: #a00000;
+     background: #a34343;
 }
 
 .computer_page .laptop {
